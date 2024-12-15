@@ -8,7 +8,7 @@
     <header>
         <h1>Fashion Website Frontend</h1>
         <p>Welcome to the Fashion Website Frontend! This project is a visually appealing and responsive website developed to showcase fashion products and collections.</p>
-       <img src="![fashion](https://github.com/user-attachments/assets/ea8c6c34-c567-46c2-a793-cc343aeb88f9)" alt="Fashion Website" style="max-width: 150px; display: block; margin: 0 auto;">
+       <img src="https://github.com/Hasini-Sankalpana/Fashion-Website-Frontend/blob/main/img/fashion.png" alt="Fashion Website" style="max-width: 150px; display: block; margin: 0 auto;">
     </header>
     <main>
         <section>
