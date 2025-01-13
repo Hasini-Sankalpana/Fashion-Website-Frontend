@@ -302,6 +302,8 @@ header.sticky{
    border: 2px solid #dfe6e9;
    border-radius: 10px;
    transition: all ease .50s;
+   width: 250px;
+   height: 500px;
 }
 
 .box h3{
