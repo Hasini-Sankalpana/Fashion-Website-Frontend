@@ -18,6 +18,7 @@
                 <li><strong>Responsive Layout:</strong> Optimized for desktops, tablets, and mobile devices.</li>
                 <li><strong>Custom Assets:</strong> High-quality images organized in the <code>img</code> folder to enhance visual appeal.</li>
             </ul>
+             <strong>Live App:</strong> <a href="https://chic-craze-hasini-sankalpana.netlify.app">Chic Craze</a>
         </section>
         <section>
             <h2>Project Structure</h2>
